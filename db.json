@@ -1,0 +1,60 @@
+{
+  "cities": [
+    {
+      "cityNames": {
+        "cityNameTR": "İstanbul",
+        "cityNameEN": "Istanbul"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/istanbul.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Ankara",
+        "cityNameEN": "Ankara"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/ankara.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Londra",
+        "cityNameEN": "London"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/londra.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Moskova",
+        "cityNameEN": "Moscow"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/moskova.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Tokyo",
+        "cityNameEN": "Tokyo"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/tokyo.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Sao Paulo",
+        "cityNameEN": "Sao Paulo"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/sao_paulo.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Doha",
+        "cityNameEN": "Doha"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/doha.jpg"
+    },
+	 {
+      "cityNames": {
+        "cityNameTR": "Default",
+        "cityNameEN": "Default"
+      },
+      "cityImageURL": "https://raw.githubusercontent.com/akndmr/mockcitieswithpics/master/image/default.jpg"
+    }
+  ]
+}
